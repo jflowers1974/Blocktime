@@ -1,0 +1,38 @@
+{
+    "appKeys": {
+        "KEY_BLOCK_HEIGHT": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Pebble",
+    "longName": "Blockchain University Time",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/logobcu.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "fonts/Ubuntu-R.ttf",
+                "name": "Ubuntu_R_18",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Ubuntu-R.ttf",
+                "name": "Ubuntu_R_24",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Blocktime",
+    "uuid": "0d9e7114-ced3-411c-86c8-56537df5bf9c",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
